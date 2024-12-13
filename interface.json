@@ -1,6 +1,4 @@
 {
     "storeHouse": [
-    {"sourceName":"自定义1","sourceUrl":"https://cdn.jsdelivr.net/gh/liuting0316/interface@master/config.txt"},
-    {"sourceName":"自定义2","sourceUrl":"https://cdn.jsdelivr.net/gh/liuting0316/interface@master/repository.txt"},
     {"sourceName":"自定义3","sourceUrl":"https://cdn.jsdelivr.net/gh/liuting0316/interface@master/customize.txt"}
     ]}
